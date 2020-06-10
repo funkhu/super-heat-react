@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Header = () => {
+export const Navbar = () => {
     return (
         <div>
-            Super Heat
+            Nav Bar
         </div>
     )
 }
