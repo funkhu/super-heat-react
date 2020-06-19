@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://sa:Xander709174@cluster0-cmqqd.mongodb.net/superheat?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://sa:Xander709174@cluster0-cmqqd.mongodb.net/superheat?retryWrites=true&w=majority",
+    "jwtSecret": "Development@123"
 }
